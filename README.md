@@ -1,10 +1,10 @@
 # Tips-For-Pytorch
 
-# Tutorials
+### Tutorials
 https://github.com/yunjey/pytorch-tutorial
 
-# Custom Dataset
+### Custom Dataset
 https://github.com/utkuozbulak/pytorch-custom-dataset-examples
 
-# Augmentation
+### Augmentation
 https://github.com/albumentations-team/albumentations
